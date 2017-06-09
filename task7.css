@@ -1,0 +1,44 @@
+.root{
+    width: 1200px;
+    height: 600px;
+    border: 2px solid #3355d0;
+    overflow: auto;
+    background-color: #ffffff;
+    margin: auto;
+}
+.second{
+    width: 550px;
+    height: 480px;
+    border: 1px solid #3355d0;
+    margin: 50px 23px;
+    overflow: auto;
+    float: left;
+    background-color: #ffffff;
+}
+.third{
+    width: 250px;
+    height: 200px;
+    border: 1px solid #3355d0;
+    margin: 120px 11px;
+    overflow: auto;
+    float: left;
+    background-color: #ffffff;
+}
+.forth{
+    width: 99px;
+    height: 73px;
+    border: 1px solid #3355d0;
+    margin: 62px 12px;
+    overflow: auto;
+    float: left;
+    background-color: #ffffff;
+}
+.control{
+    width: 300px;
+    margin: auto;
+    overflow: auto;
+}
+.control input{
+    width: 25%;
+    height: 100%;
+}
